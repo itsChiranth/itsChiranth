@@ -35,12 +35,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsChiranth&theme=flat&column=4&margin-w=10" />
-</p>
-
----
 
 
 ---
