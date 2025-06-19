@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chiranth</h1>
 <h3 align="center">A passionate developer, entrepreneur & tech enthusiast from India 🇮🇳</h3>
 
-- 🔭 I’m currently working on **PeakLearn - an AI-powered study planner for students**
+
 - 🌱 I’m currently diving deeper into **AI, Web Development, and Entrepreneurship**
 - 👯 I’m looking to collaborate on **impact-driven tech projects & startups**
 - 💬 Ask me about **full-stack dev, AI projects, productivity, and building from scratch**
