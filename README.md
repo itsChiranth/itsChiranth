@@ -19,8 +19,6 @@
 
 ### 🚧 Featured Projects
 - 🎯 [PeakLearn](https://github.com/itsChiranth/PeakLearn) – AI-powered personal study planner
-- 🚀 [WeChat](https://github.com/itsChiranth/WeChat) – A chat app built with help from CodeWithHarry
-- 🤖 [AI Resume Builder](https://github.com/itsChiranth/ai-resume-builder) – Smart resume suggestions using GPT
 
 
 ---
