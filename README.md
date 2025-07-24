@@ -1,41 +1,35 @@
-<h1 align="center">Hi 👋, I'm Chiranth</h1>
-<h3 align="center">A passionate developer, entrepreneur & tech enthusiast from India 🇮🇳</h3>
+<h1 align="center">👋 Hi, I'm Chiranth 👋</h1>
+<h3 align="center">Crafting intelligent solutions and impactful digital experiences from India 🇮🇳.</h3>
 
+🌱 My Current Focus
+Artificial Intelligence: Deep diving into machine learning, data science, and AI-driven innovation.
 
-- 🌱 I’m currently diving deeper into **AI, Web Development, and Entrepreneurship**
-- 👯 I’m looking to collaborate on **impact-driven tech projects & startups**
-- 💬 Ask me about **full-stack dev, AI projects, productivity, and building from scratch**
-- 📫 Reach me at: **chiranthar0115@gmail.com**
+Web Development: Building robust and intuitive full-stack applications.
 
+Entrepreneurship: Exploring the intersection of technology, business, and impactful ventures.
 
----
+🤝 Let's Connect & Collaborate
+Always open to collaborating on meaningful tech projects and startup initiatives.
 
-### 🧰 Tech Stack
+Feel free to ask me about software architecture, AI project development, effective productivity workflows, or the journey of launching new ideas.
+
+Reach out to me: chiranthar0115@gmail.com
+
+💻 My Core Toolkit
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,java,git,github,vscode,figma&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,java,git,github,vscode,figma&theme=light" alt="Tech Stack Icons" />
 </p>
 
----
-
-### 🚧 Featured Projects
-- 🎯 [PeakLearn](https://github.com/itsChiranth/PeakLearn) – AI-powered personal study planner
+🌟 Featured Project
+🎯 PeakLearn – An AI-powered personal study planner designed to optimize learning efficiency.
 
 
----
-
-### 📊 GitHub Stats
+📊 GitHub Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsChiranth&show_icons=true&theme=default" alt="itsChiranth" />
+<img src="https://github-readme-stats.vercel.app/api?username=itsChiranth&show_icons=true&theme=radical&hide_border=true" alt="itsChiranth GitHub Stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=itsChiranth&theme=default" alt="itsChiranth" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=itsChiranth&theme=radical&hide_border=true" alt="itsChiranth GitHub Streak" />
 </p>
 
----
-
-
-
----
-
-> “🌟 Stay curious, stay building — your journey is just getting started.”
-
+✨ "Innovate. Build. Inspire. The pursuit of impactful creation is endless."
