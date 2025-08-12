@@ -61,22 +61,6 @@ Meet **PeakLearn**, my **AI-powered personal study planner** designed to make le
 
 ---
 
-## 📈 My GitHub Playground Stats
-
-Curious about my coding adventures? Here's a peek at my activity, streaks, and favorite languages. No smoke and mirrors, just data!
-
-<p align="center">
-  <a href="https://github.com/itsChiranth">
-    <img src="https://github-readme-stats.vercel.app/api?username=itsChiranth&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=E000B9&icon_color=E000B9" alt="itsChiranth GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/itsChiranth">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsChiranth&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="itsChiranth GitHub Streak" />
-  </a>
-</p>
-
 #### **My Language Superpowers:**
 
 <p align="center">
