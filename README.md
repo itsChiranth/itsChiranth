@@ -51,29 +51,41 @@ I enjoy:
 
 ---
 
-## 🌟 Featured Project
+## 🚀 Top Projects
 
-### 🎯 PeakLearn — AI-Powered Study Planner
-
-An intelligent study planner that:
-- Generates personalized study schedules  
-- Identifies important topics using AI  
-- Improves focus, consistency, and productivity  
-
-> Built with real students and real constraints in mind.
+### 🔍 **Fraud Detection System**
+AI-powered system to detect fraudulent patterns using historical and real-time data.
+- Machine learning–based anomaly detection  
+- Feature engineering & data preprocessing  
+- Designed for financial and transactional use cases  
 
 ---
 
-## 📊 GitHub Stats
+### 🔐 **Personal Data Provenance**
+A system focused on tracking, validating, and securing personal data flow.
+- Data lineage & provenance tracking  
+- Security-first design principles  
+- Useful for compliance, audits, and data trust systems  
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsChiranth&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsChiranth&layout=compact&theme=radical&hide_border=true" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsChiranth&theme=radical&hide_border=true" />
-</p>
+### 🏥 **Sehat.ai**
+AI-driven healthcare assistant focused on accessibility and efficiency.
+- Intelligent health insights & recommendations  
+- User-centric design for real-world adoption  
+- Built with scalability and privacy in mind  
+
+---
+
+### 📈 **LeadSnipe**
+A lead intelligence and management platform.
+- Automated lead collection & enrichment  
+- Smart filtering and prioritization  
+- Built to reduce manual effort and improve conversions  
+
+---
+
+
 
 ---
 
@@ -105,4 +117,5 @@ An intelligent study planner that:
 ---
 
 ### 🧩 Philosophy
-> **Write less. Build more. Improve every day.**
+> **If it works, don’t touch it. If it breaks, it was experimental.**
+
